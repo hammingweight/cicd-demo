@@ -12,3 +12,5 @@ jobs:
       - name: 'Start build job'
         run: |
           echo "Starting the build job."
+          sleep 60
+          exit 1
