@@ -19,3 +19,4 @@
 - [Micronaut Serialization Jackson Core documentation](https://micronaut-projects.github.io/micronaut-serialization/latest/guide/)
 
 
+[![cicd-demo](https://github.com/hammingweight/cicd-demo/actions/workflows/cicd-workflow.yaml/badge.svg)](https://github.com/hammingweight/cicd-demo/actions/workflows/cicd-workflow.yaml)
