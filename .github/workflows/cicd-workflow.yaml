@@ -20,4 +20,5 @@ jobs:
           distribution: oracle
           java-version: 17
       - run: java -version
-
+      - run: ./gradlew assemble
+      - run: ./gradlew properties -q
